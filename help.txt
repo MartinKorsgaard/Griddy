@@ -1,4 +1,6 @@
-This application is intended to work with at least 2 monitors. One for the applications/games you want to switch between and one for Griddy. It works best with windowed applications. Using fullscreen apps/games could cause some issues.
+This application is intended to work with at least two monitors. One for the applications/games you want to switch between and one for Griddy. It works best with windowed applications. Using fullscreen apps/games could cause some issues.
+
+To switch application/game simply point and click with your mouse or use the keyboard shortcuts listed below.
 
 Keyboard Shortcuts:
 
