@@ -1,0 +1,8 @@
+Use CONTROL + ALT + Space to open settings
+Use CONTROL + ALT + Enter to open quick load
+Use CONTROL + ALT + Up arrow to move to next window
+Use CONTROL + ALT + Down arrow to move to previous window
+Use CONTROL + ALT + Right arrow to move to next window
+Use CONTROL + ALT + Left arrow to move to previous window
+Use CONTROL + ALT + F1-F12 to select window directly.
+
