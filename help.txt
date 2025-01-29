@@ -1,8 +1,15 @@
+This application is intended to work with at least 2 monitors. One for the applications/games you want to switch between and one for Griddy. It works best with windowed applications. Using fullscreen apps/games could cause some issues.
+
+Keyboard Shortcuts:
+
 Use CONTROL + ALT + Space to open settings
 Use CONTROL + ALT + Enter to open quick load
 Use CONTROL + ALT + Up arrow to move to next window
 Use CONTROL + ALT + Down arrow to move to previous window
 Use CONTROL + ALT + Right arrow to move to next window
 Use CONTROL + ALT + Left arrow to move to previous window
-Use CONTROL + ALT + F1-F12 to select window directly.
+Use CONTROL + ALT + F1-F12 to select window directly
 
+Quick Load:
+
+You can use regular expressions to load applications. Using EVE Online as an example you can write "EVE - *" in the filter and it will load all the EVE Online clients you have open.
