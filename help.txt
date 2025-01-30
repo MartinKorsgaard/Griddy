@@ -4,6 +4,7 @@ To switch application/game simply point and click with your mouse or use the key
 
 Keyboard Shortcuts:
 
+Use CONTROL + ALT + H to open help
 Use CONTROL + ALT + Space to open settings
 Use CONTROL + ALT + Enter to open quick load
 Use CONTROL + ALT + Up arrow to move to next window
